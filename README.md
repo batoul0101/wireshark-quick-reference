@@ -7,7 +7,7 @@ Quick reference for Wireshark filters and commands.
 - [Display Filters](display-filters.md)
 - [Capture Filters](capture-filters.md)
 - [CLI Tools](cli-tools.md)
-- [Glossary](glossary.md)
+
 
 ### Sources
 - Wireshark Official Docs: https://www.wireshark.org/docs/
@@ -23,8 +23,6 @@ Quick reference for Wireshark filters and commands.
 - [فلاتر العرض (Display Filters)](display-filters.md)
 - [فلاتر الالتقاط (Capture Filters)](capture-filters.md)
 - [أدوات سطر الأوامر (CLI Tools)](cli-tools.md)
-- [المصطلحات (Glossary)](glossary.md)
-
 ### المصادر
 - الوثائق الرسمية لـ Wireshark: https://www.wireshark.org/docs/
 - ويكي Wireshark: https://wiki.wireshark.org/
